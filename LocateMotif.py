@@ -1,0 +1,1 @@
+# locate input motif
